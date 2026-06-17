@@ -1,0 +1,15 @@
+ 3.1 Escreva as seguintes consultas em SQL usando o esquema da universidade.
+
+a. Achar os títulos dos cursos no departamento Comp. Sci. que possuem três créditos.
+
+b. Achar as IDs de todos os alunos que foram lecionados por um instrutor chamado Shuming; cuide para que não haja duplicatas no resultado.
+
+c. Achar o salário mais alto de qualquer instrutor.
+
+d. Achar todos os instrutores que ganham o salário mais alto (pode haver mais de um com o mesmo salário).
+
+e. Achar a matrícula de cada seção que foi oferecida no outono de 2010.
+
+f. Achar o número máximo de matriculados, por todas as seções, no outono de 2010.
+
+g. Achar as seções que tiveram o número máximo de matriculados no outono de 2010.
