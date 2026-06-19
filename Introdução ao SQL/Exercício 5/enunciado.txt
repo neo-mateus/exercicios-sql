@@ -1,0 +1,5 @@
+5. Suponha que tenhamos uma relação lançamentos (ID, pontuação) e queiramos atribuir notas aos alunos com base na pontuação da seguinte forma: nota F se pontuação < 40, nota C se 40 ≤ pontuação < 60, nota B se 60 ≤ pontuação < 80 e nota A se 80 ≤ pontuação. Escreva consultas SQL que fazem o seguinte:
+
+a. Exiba a nota para cada aluno, com base na relação lançamentos.
+
+b. Ache o número de alunos com cada nota.
