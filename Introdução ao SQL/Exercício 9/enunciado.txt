@@ -1,0 +1,11 @@
+9. Considere o banco de dados relacional da empresa, onde as chaves primárias estão sublinhadas. Dê uma expressão na SQL para cada uma das seguintes consultas.
+
+a.Ache os nomes e cidades de residência de todos os empregados que trabalham para a “First Bank Corporation”.
+
+b.Ache as IDs, os nomes, ruas e cidades de residência de todos os funcionários que trabalham para a “First Bank Corporation” e ganham mais de $ 10.000.
+
+c.Ache as IDs de todos os empregados no banco de dados que não trabalham para a “First Bank Corporation”.
+
+d.Ache as IDs de todos os empregados no banco de dados que ganham mais do que cada empregado da “Small Bank Corporation”.
+
+e.Suponha que as empresas possam estar localizadas em várias cidades. Ache todas as empresas localizadas em cada cidade em que a “Small Bank Corporation” está localizada.
