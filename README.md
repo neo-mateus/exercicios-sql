@@ -12,7 +12,7 @@ Caso você repare em algo do meu código que dá para melhorar em uma questão o
 prazer, além disso, espero que meu código ajude você leitor a ter ideias de resolver suas questões e desafios.
 <br>
 <center><h1>Atenção!</h1></center>
-Este projeto possui apenas o código SQL, toda a questões são resolvidas em MySQL, fique atento a compatibilidade do código com sua implementação e versão, algumas
+Este projeto possui apenas o código SQL, todas as questões são resolvidas em MySQL, fique atento a compatibilidade do código com sua implementação e versão, algumas
 questões são desenvolvidas seguindo o padrão SQL, coisa que nem sempre implementações SGBDs seguem rigorosamente, sempre que possível, deixo observações das possíveis
 limitações do meu código em outras implementações, todo código que desenvolvo neste repositório é puramente para fins pedagógicos e de lazer.
 
