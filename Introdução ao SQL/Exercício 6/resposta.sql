@@ -1,3 +1,3 @@
-select title, dept_name
+select title,dept_name
 from course
-where lower(dept_name) like "%sci%";
+where dept_name like "%sci%";
