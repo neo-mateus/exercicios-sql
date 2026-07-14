@@ -1,0 +1,1 @@
+13. Escreva a DDL em SQL correspondente ao esquema de banco de dados do seguro. Faça suposições razoáveis sobre os tipos de dados e não se esqueça de declarar as chaves primária e estrangeira.
