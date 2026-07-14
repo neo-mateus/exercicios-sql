@@ -1,0 +1,9 @@
+Considere o banco de dados de empregados, onde as chaves primárias estão sublinhadas. Dê uma expressão em SQL para cada uma das seguintes consultas.
+
+a.Ache as IDs e os nomes de todos os empregados que moram nas mesmas cidades das empresas para as quais trabalham.
+
+b.Ache as IDs e os nomes de todos os empregados que moram nas mesmas cidades e nas mesmas ruas de seus gerentes.
+
+c.Ache as IDs e os nomes de todos os empregados que ganham mais do que o salário médio de todos os empregados de sua empresa.
+
+d.Ache a empresa que tem a menor folha de pagamentos.
