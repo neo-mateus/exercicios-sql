@@ -1,0 +1,5 @@
+Considere o banco de dados de seguro, onde as chaves primárias estão sublinhadas. Construa as seguintes consultas SQL para esse banco de dados relacional.
+
+a.Ache o número de acidentes em que os carros pertencentes a “John Smith” estiveram envolvidos.
+
+b.Atualize o valor do dano para o carro com o Renavam “123456789” no acidente com o número de sinistro “AR2197” para $ 3.000.
