@@ -10,6 +10,7 @@ create table works(
 	ID int,
     company_name varchar(30),
     salary numeric(6,2),
+    primary key (ID),
     foreign key (ID) references employed(ID),
     foreign key (company_name) references company(company_name)
 );
