@@ -1,0 +1,19 @@
+Os valores nulos, apesar de sempre ser considerados uma
+boa prática evitá-los em um banco de dados para garantir
+100% do seu funcionamento, há algumas pequenas vantagens
+em mantê-los na implementação, podendo serem algumas delas:
+
+1. Flexibilidade no sistema de banco de dados: Manter valores
+nulos no sistema de banco de dados, apesar de poder trazer
+dados anômalos em algumas operações, pode tornar o sistema
+mais tolerante a falhas e manter boa parte do seu funcionamento
+sem comprometer todo sistema da empresa.
+
+2. Informar dados relevantes: para analistas, resultados nulos
+podem informar tuplas que possui dados pendentes por
+entidades de diferentes setores no ramo corporativo. Além
+disso, informa para o analista algumas informações relevantes
+a respeito do objeto em questão, por exemplo, uma pessoa
+que possui valores nulos no atributo filho, herdeiro, 
+responsável mostra que é indepedente, ou que não possui filho 
+ou herdeiro responsável.
