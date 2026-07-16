@@ -1,0 +1,1 @@
+Dê uma definição de esquema SQL para o banco de dados de empregados. Escolha um domínio apropriado para cada atributo e uma chave primária apropriada para cada esquema de relação. Inclua quaisquer restrições de chave estrangeira que possam ser apropriadas.
