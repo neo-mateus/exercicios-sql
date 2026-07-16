@@ -4,10 +4,9 @@ with manager(ID, name, street, city) as (
     where ID in (select ID
 				from manage)
 )
-(select employed.ID, employed.employed_name
+select employed.ID, employed.employed_name
 from employed, manager
 where employed.street = manager.street
-	and employed.city = manager.city)
-except
-(select ID, name
-from manager);
+	and employed.city = manager.city
+    and employed.ID not in (select ID
+							from manage);
