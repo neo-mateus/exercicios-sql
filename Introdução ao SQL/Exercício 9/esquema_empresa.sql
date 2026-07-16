@@ -1,13 +1,13 @@
 create table employed (
-	ID integer(255),
-    employed_name varchar(20),
+	ID int check (ID > 0),
+    employed_name varchar(20) not null,
     street varchar(50),
     city varchar(20),
     primary key (ID)
 );
 
 create table works(
-	ID integer(255),
+	ID int,
     company_name varchar(30),
     salary numeric(6,2),
     foreign key (ID) references employed(ID),
@@ -20,8 +20,8 @@ create table company(
 );
 
 create table manage(
-	ID integer(255),
-    manager_id integer(255),
+	ID int,
+    manager_id int check (ID > 0),
     primary key(ID),
     foreign key (ID) references employed(ID)
 );
