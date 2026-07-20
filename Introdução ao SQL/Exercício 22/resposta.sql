@@ -1,0 +1,1 @@
+where 1 = (select count(title) from course);
