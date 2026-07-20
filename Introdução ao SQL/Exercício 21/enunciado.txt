@@ -1,0 +1,9 @@
+Considere o banco de dados de biblioteca. Escreva as seguintes consultas em SQL.
+
+a.Encontre os números e nomes dos membros que pediram emprestado qualquer livro publicado pela LTC Editora.
+
+b.Encontre os números e nomes dos membros que pediram emprestado todos os livros publicados pela LTC Editora.
+
+c.Para cada caso, encontre os números e nomes dos membros que pediram emprestado mais de cinco livros dessa editora.
+
+d.Ache o número médio de livros emprestados por membro. Leve em consideração que, se um membro não pede livros emprestados, então esse membro nem sequer aparece na relação emprestado, mas ele ainda conta na média.
