@@ -1,0 +1,1 @@
+Mostre que, em SQL, < > all é idêntico a not in.
