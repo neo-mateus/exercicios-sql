@@ -1,0 +1,5 @@
+Reescreva a cláusula where
+
+where unique (select título from curso)
+
+sem usar a construção unique.
