@@ -1,0 +1,23 @@
+Considere a consulta:
+
+with total_dept (nome_dept, valor) as
+
+	(select nome_dept, sum(salário)
+
+	from instrutor
+
+	group by nome_dept),
+
+total_dept_médio(valor) as
+
+	(select avg(valor)
+
+	from total_dept)
+
+select nome_dept
+
+from total_dept, total_dept_médio
+
+where total_dept.valor >= total_dept_médio.valor;
+
+Reescreva essa consulta sem usar a construção with.
