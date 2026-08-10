@@ -1,0 +1,1 @@
+Usando o esquema de universidade, escreva uma consulta SQL para achar os nomes de departamento cujo orçamento seja maior do que o de Psychology. Classifique-os em ordem alfabética.
