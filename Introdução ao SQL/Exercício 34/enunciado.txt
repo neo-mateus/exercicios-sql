@@ -1,0 +1,1 @@
+Usando o esquema de universidade, escreva uma consulta SQL para achar o número de alunos em cada seção. As colunas resultantes deverão aparecer na ordem “id_curso, id_sec, ano, semestre, número_sala”. Não é preciso informar as seções com zero alunos.
