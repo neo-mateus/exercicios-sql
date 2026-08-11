@@ -1,0 +1,1 @@
+Usando o esquema de universidade, escreva uma consulta SQL para achar a ID e o nome de cada instrutor que nunca deu uma nota A em qualquer curso que tenha ministrado. (Os instrutores que nunca ministraram um curso normalmente satisfazem essa condição.)
