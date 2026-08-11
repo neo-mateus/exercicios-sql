@@ -1,0 +1,1 @@
+Reescreva a consulta anterior, mas garanta também que irá incluir apenas os instrutores que deram pelo menos outra nota diferente de null em algum curso.
