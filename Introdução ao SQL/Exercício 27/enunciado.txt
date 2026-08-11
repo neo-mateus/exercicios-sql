@@ -1,0 +1,1 @@
+Usando o esquema de universidade, escreva uma consulta SQL para achar as IDs dos alunos que refizeram pelo menos três cursos distintos pelo menos uma vez (ou seja, o aluno realizou o curso pelo menos duas vezes).
